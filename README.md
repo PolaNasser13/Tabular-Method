@@ -41,22 +41,19 @@ python "Tabular method.py"
 ## 🧠 How It Works
 
 The tool takes in:  
--Number of variables  
--Minterms or Maxterms  
--(Optional) Don't Care terms  
+- Number of variables  
+- Minterms or Maxterms  
+- (Optional) Don't Care terms  
 
 Then it:  
--Converts inputs into binary form.  
--Groups terms by the number of 1s.  
--Iteratively combines terms using the tabular method.  
--Identifies Prime Implicants and Essential Prime Implicants.  
--Constructs the minimized Boolean expression in either SOP or POS form.
+- Converts inputs into binary form.  
+- Groups terms by the number of 1s.  
+- Iteratively combines terms using the tabular method.  
+- Identifies Prime Implicants and Essential Prime Implicants.  
+- Constructs the minimized Boolean expression in either SOP or POS form.
 
 ## 👤 Author
 
--Name: Pola Nasser Ayoub  
--Faculty: Faculty of Engineering, Alexandria University  
--Department: Computers and Communications Engineering (CCE)
-
-
-طط'''""""
+- Name: Pola Nasser Ayoub  
+- Faculty: Faculty of Engineering, Alexandria University  
+- Department: Computers and Communications Engineering (CCE)
